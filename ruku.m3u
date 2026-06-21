@@ -13,8 +13,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 tvg-logo="🎬", ATN Bangla
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
-
-# Sports Channels
 #EXTINF:-1 tvg-logo="⚽", korra live
 https://an.mancher.xyz/moodes1_720/index.m3u8
 #EXTINF:-1 tvg-logo="🎥", Go Live
@@ -29,8 +27,6 @@ https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8
 https://ataide0.sman1asjap.my.id/tsn.m3u8
 #EXTINF:-1 tvg-logo="🇸🇦", Bein Sports 1 (Arabic)
 https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8
-#EXTINF:-1 tvg-logo="🎙️", Cola tv live 
-https://live05.msdht.app/live/24561735.m3u8
 #EXTINF:-1 tvg-logo="🏆", BeIN Sports Direct
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1 tvg-logo="🇦🇷", TYC Sports
